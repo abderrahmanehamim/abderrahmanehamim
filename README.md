@@ -16,13 +16,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abdouhamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdouhamim" height="30" width="40" /></a>
-<a href="https://twitter.com/abdouuhamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdouuhamim" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/abderrahmanehamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderrahmanehamim" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22409573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22409573" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abdouhamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abdouhamim" height="30" width="40" /></a>
 <a href="https://kaggle.com/abderrahmanehamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abderrahmanehamim" height="30" width="40" /></a>
-<a href="https://fb.com/abdo.hamim.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdo.hamim.9" height="30" width="40" /></a>
-<a href="https://instagram.com/abdou_hamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdou_hamim" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/abderahmaneham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abderahmaneham" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user6161gj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6161gj" height="30" width="40" /></a>
 </p>
